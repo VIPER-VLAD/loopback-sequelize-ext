@@ -1,0 +1,24 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const tslib_1 = require("tslib");
+tslib_1.__exportStar(require("./book-category.controller"), exports);
+tslib_1.__exportStar(require("./book.controller"), exports);
+tslib_1.__exportStar(require("./category.controller"), exports);
+tslib_1.__exportStar(require("./developer.controller"), exports);
+tslib_1.__exportStar(require("./doctor-patient.controller"), exports);
+tslib_1.__exportStar(require("./doctor.controller"), exports);
+tslib_1.__exportStar(require("./patient.controller"), exports);
+tslib_1.__exportStar(require("./product.controller"), exports);
+tslib_1.__exportStar(require("./programming-languange.controller"), exports);
+tslib_1.__exportStar(require("./roles.controller"), exports);
+tslib_1.__exportStar(require("./scoped-task.controller"), exports);
+tslib_1.__exportStar(require("./task.controller"), exports);
+tslib_1.__exportStar(require("./test.controller.base"), exports);
+tslib_1.__exportStar(require("./todo-list-todo.controller"), exports);
+tslib_1.__exportStar(require("./todo-list.controller"), exports);
+tslib_1.__exportStar(require("./todo-todo-list.controller"), exports);
+tslib_1.__exportStar(require("./todo.controller"), exports);
+tslib_1.__exportStar(require("./transaction.controller"), exports);
+tslib_1.__exportStar(require("./user-todo-list.controller"), exports);
+tslib_1.__exportStar(require("./user.controller"), exports);
+//# sourceMappingURL=index.js.map
